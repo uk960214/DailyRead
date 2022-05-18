@@ -14,3 +14,4 @@
 | 10   | 5월 9일  | 상태 로직을 Reducer로 추출하기                                 | [출처](https://beta.reactjs.org/learn/scaling-up-with-reducer-and-context)   | [정리](./posts/220509.md)   |
 | 11   | 5월 11일 | Thunk로 로직 작성하기                                          | [출처](https://redux.js.org/usage/writing-logic-thunks)                      | [정리](./posts/220511.md)   |
 | 12   | 5월 17일 | React key prop 이해하기                                        | [출처](https://awesomezero.com/development/react-key/)                       | [정리](./posts/220517.md)   |
+| 13   | 5월 18일 | 리덕스 잘 쓰고 계시나요?                                       | [출처](https://ridicorp.com/story/how-to-use-redux-in-ridi/)                 | [정리](./posts/220518.md)   |
