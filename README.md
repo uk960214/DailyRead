@@ -16,3 +16,4 @@
 | 12   | 5월 17일 | React key prop 이해하기                                          | [출처](https://awesomezero.com/development/react-key/)                       | [정리](./posts/220517.md)   |
 | 13   | 5월 18일 | 리덕스 잘 쓰고 계시나요?                                         | [출처](https://ridicorp.com/story/how-to-use-redux-in-ridi/)                 | [정리](./posts/220518.md)   |
 | 14   | 5월 19일 | 모두를 위한 모바일 웹: 접근성을 준수해서 스크린 리더 UX 개선하기 | [출처](https://youtu.be/tKj3xsXy9KM)                                         | [정리](./posts/220519.md)   |
+| 14   | 5월 25일 | Accessibility - The State of the Web                             | [출처](https://www.youtube.com/watch?v=TomOQYxFnrU)                          | [정리](./posts/220525.md)   |
