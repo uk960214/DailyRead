@@ -16,7 +16,7 @@
 | 12   | 5월 17일 | React key prop 이해하기                                          | [출처](https://awesomezero.com/development/react-key/)                              | [정리](./posts/220517.md)   |
 | 13   | 5월 18일 | 리덕스 잘 쓰고 계시나요?                                         | [출처](https://ridicorp.com/story/how-to-use-redux-in-ridi/)                        | [정리](./posts/220518.md)   |
 | 14   | 5월 19일 | 모두를 위한 모바일 웹: 접근성을 준수해서 스크린 리더 UX 개선하기 | [출처](https://youtu.be/tKj3xsXy9KM)                                                | [정리](./posts/220519.md)   |
-| 14   | 5월 25일 | Accessibility - The State of the Web                             | [출처](https://www.youtube.com/watch?v=TomOQYxFnrU)                                 | [정리](./posts/220525 .md)  |
-| 15   | 5월 30일 | State of React 2022: Lee Robinson                                | [출처](https://www.youtube.com/watch?v=XruemT74Nok)                                 | [정리](./posts/220530 .md)  |
-| 16   | 5월 31일 | Goodbye, useEffect: David Khourshid                              | [출처](https://www.youtube.com/watch?v=HPoC-k7Rxwo)                                 | [정리](./posts/220531 .md)  |
-| 16   | 6월 2일  | What is Concurrent React?                                        | [출처](https://reactjs.org/blog/2022/03/29/react-v18.html#what-is-concurrent-react) | [번역](./posts/220602 .md)  |
+| 14   | 5월 25일 | Accessibility - The State of the Web                             | [출처](https://www.youtube.com/watch?v=TomOQYxFnrU)                                 | [정리](./posts/220525.md)   |
+| 15   | 5월 30일 | State of React 2022: Lee Robinson                                | [출처](https://www.youtube.com/watch?v=XruemT74Nok)                                 | [정리](./posts/220530.md)   |
+| 16   | 5월 31일 | Goodbye, useEffect: David Khourshid                              | [출처](https://www.youtube.com/watch?v=HPoC-k7Rxwo)                                 | [정리](./posts/220531.md)   |
+| 16   | 6월 2일  | What is Concurrent React?                                        | [출처](https://reactjs.org/blog/2022/03/29/react-v18.html#what-is-concurrent-react) | [번역](./posts/220602.md)   |
