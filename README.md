@@ -11,7 +11,7 @@
 | 7    | 5월 4일  | React 공식 문서 - Context, useContext                            | [출처](https://ko.reactjs.org/docs/context.html)                                    | [정리](./posts/220504.md)   |
 | 8    | 5월 5일  | 복잡한 백오피스에서의 폼의 상태 다루기                           | [출처](https://www.youtube.com/watch?v=ycxqVYD2N0w&t=1696s)                         | [정리](./posts/220505.md)   |
 | 9    | 5월 8일  | 상태 로직을 Reducer로 추출하기                                   | [출처](https://beta.reactjs.org/learn/extracting-state-logic-into-a-reducer)        | [정리](./posts/220508.md)   |
-| 10   | 5월 9일  | 상태 로직을 Reducer로 추출하기                                   | [출처](https://beta.reactjs.org/learn/scaling-up-with-reducer-and-context)          | [정리](./posts/220509.md)   |
+| 10   | 5월 9일  | Reducer와 Context를 사용해 스케일업 하기                         | [출처](https://beta.reactjs.org/learn/scaling-up-with-reducer-and-context)          | [정리](./posts/220509.md)   |
 | 11   | 5월 11일 | Thunk로 로직 작성하기                                            | [출처](https://redux.js.org/usage/writing-logic-thunks)                             | [정리](./posts/220511.md)   |
 | 12   | 5월 17일 | React key prop 이해하기                                          | [출처](https://awesomezero.com/development/react-key/)                              | [정리](./posts/220517.md)   |
 | 13   | 5월 18일 | 리덕스 잘 쓰고 계시나요?                                         | [출처](https://ridicorp.com/story/how-to-use-redux-in-ridi/)                        | [정리](./posts/220518.md)   |
